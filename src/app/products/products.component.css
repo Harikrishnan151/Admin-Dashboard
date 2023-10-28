@@ -1,0 +1,12 @@
+img{
+    width: 170px; 
+}
+.card{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+img:hover{
+    transform: scale(1.1);
+    transition: 1;
+}

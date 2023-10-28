@@ -1,0 +1,16 @@
+.card{
+    width: 200px;
+    height: 130px;
+    padding: 20px;
+    border: 1px solid black;
+    
+}
+mat-icon{
+    font-size: 25px;
+}
+.content h3,h5{
+    font-size: 25;
+    font-weight: 700;
+    font-family:sans-serif ;
+    font-size: larger;
+}
